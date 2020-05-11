@@ -1,2 +1,2 @@
-# data-science
-This repository contains basic projects based around data science algorithms
+# Big Data
+This repository contains flight analysis project based on K-Means clustering and EDA.
